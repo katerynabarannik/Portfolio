@@ -17,7 +17,7 @@ Combining study with work, I managed to gain a lot of experience and build a car
 
 # 🌱Tech skills & Tools:
 
-* Jira
+* Jira, Trello, Confluence
 * VisualStudioCode
 * PyCharm
 * GitHub
@@ -26,8 +26,10 @@ Combining study with work, I managed to gain a lot of experience and build a car
 * Robot Framework
 * Selenium 
 * UNIX
-* Trello
 * SQL
+* HTML
+* Python
+
 
 # ✨ My projects:
 
